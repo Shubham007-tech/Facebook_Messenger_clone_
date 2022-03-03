@@ -1,6 +1,6 @@
 
 Here is Deployed link - https://myfacebookclone-f0247.web.app/
-Tech stack used -  ReactJS , Firebase , MaterialUI
+Tech stack used are -  ReactJS , Firebase , MaterialUI
 
 # Getting Started with Create React App
 
