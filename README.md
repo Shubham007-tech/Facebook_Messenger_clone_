@@ -1,4 +1,4 @@
-
+Messenger is an instant messaging app and platform developed by Meta Platforms. A humble attempt to clone facebook messenger using React and Firebase
 Here is Deployed link - https://myfacebookclone-f0247.web.app/
 <br> </br>
 Tech stack used are -  ReactJS , Firebase , MaterialUI
